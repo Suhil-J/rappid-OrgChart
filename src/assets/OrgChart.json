@@ -1,0 +1,302 @@
+{
+  "cells": [
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "f9a1b1b7-caae-470d-8eb8-6aeebdb6b61f",
+      "z": 1,
+      "attrs": {
+        "label": {
+          "text": "Thomas Edition"
+        },
+        "description": {
+          "text": "CEO"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/1.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "238e6936-8f7b-4616-ada8-f6c134529616",
+      "z": 2,
+      "attrs": {
+        "label": {
+          "text": "Marie Curie"
+        },
+        "description": {
+          "text": "Manager"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/2.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "fc956084-546b-4941-8983-e19fa326c54c",
+      "z": 3,
+      "attrs": {
+        "label": {
+          "text": "Blaise Pascal"
+        },
+        "description": {
+          "text": "Manager"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/7.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "13d77d74-b45d-44ab-87ee-16caae7ce2c7",
+      "z": 4,
+      "attrs": {
+        "label": {
+          "text": "Will Thomas"
+        },
+        "description": {
+          "text": "Full-Stack Developer"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/8.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "06625ffa-f396-4b2e-8f79-32f7db16b37f",
+      "z": 5,
+      "attrs": {
+        "label": {
+          "text": "Cail Gauss"
+        },
+        "description": {
+          "text": "Senior Full stack developer"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/9.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "195a2bd4-0764-4bea-95b2-8f4f54219541",
+      "z": 6,
+      "attrs": {
+        "label": {
+          "text": "James Walt"
+        },
+        "description": {
+          "text": "Back-End Developer"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/10.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "d1f8050f-751c-4fca-8451-5c1620b66b36",
+      "z": 7,
+      "attrs": {
+        "label": {
+          "text": "Elevira Clerk"
+        },
+        "description": {
+          "text": "Front-End Developer"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/6.png"
+        }
+      }
+    },
+    {
+      "type": "app.Member",
+      "size": {
+        "width": 333,
+        "height": 98
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "angle": 0,
+      "id": "e8e8567d-42a7-497e-906d-9d0c05302460",
+      "z": 8,
+      "attrs": {
+        "label": {
+          "text": "Alex worn"
+        },
+        "description": {
+          "text": "Senior .net developer"
+        },
+        "icon": {
+          "xlinkHref": "assets/images/4.png"
+        }
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "f9a1b1b7-caae-470d-8eb8-6aeebdb6b61f"
+      },
+      "target": {
+        "id": "238e6936-8f7b-4616-ada8-f6c134529616"
+      },
+      "id": "7157d912-a688-4720-8fef-71aa306b960e",
+      "z": 9,
+      "attrs": {
+        
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "f9a1b1b7-caae-470d-8eb8-6aeebdb6b61f"
+      },
+      "target": {
+        "id": "fc956084-546b-4941-8983-e19fa326c54c"
+      },
+      "id": "b151097c-705d-4bda-8549-702a03af3a59",
+      "z": 10,
+      "attrs": {
+        
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "238e6936-8f7b-4616-ada8-f6c134529616"
+      },
+      "target": {
+        "id": "13d77d74-b45d-44ab-87ee-16caae7ce2c7"
+      },
+      "id": "ae70a935-1b71-43b0-a2d1-52345ff3ec84",
+      "z": 11,
+      "attrs": {
+        
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "238e6936-8f7b-4616-ada8-f6c134529616"
+      },
+      "target": {
+        "id": "06625ffa-f396-4b2e-8f79-32f7db16b37f"
+      },
+      "id": "3ebdbb24-114c-4055-a300-b68fac735dc8",
+      "z": 12,
+      "attrs": {
+        
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "fc956084-546b-4941-8983-e19fa326c54c"
+      },
+      "target": {
+        "id": "195a2bd4-0764-4bea-95b2-8f4f54219541"
+      },
+      "id": "30950791-4dc7-4698-a1f7-56098edc14b4",
+      "z": 13,
+      "attrs": {
+        
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "fc956084-546b-4941-8983-e19fa326c54c"
+      },
+      "target": {
+        "id": "d1f8050f-751c-4fca-8451-5c1620b66b36"
+      },
+      "id": "d96b794b-5ec5-479c-8969-7f27f04283fd",
+      "z": 14,
+      "attrs": {
+        
+      }
+    },
+    {
+      "type": "app.Link",
+      "source": {
+        "id": "fc956084-546b-4941-8983-e19fa326c54c"
+      },
+      "target": {
+        "id": "e8e8567d-42a7-497e-906d-9d0c05302460"
+      },
+      "id": "0937f38f-50f8-47a5-8b5b-a43590ed0b98",
+      "z": 15,
+      "attrs": {
+        
+      }
+    }
+  ]
+}
